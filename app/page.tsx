@@ -6,6 +6,7 @@ export default function Home() {
 <main className="">
 
   <h1>Hey</h1>
+  <p>hello</p>
 </main>
 
 
