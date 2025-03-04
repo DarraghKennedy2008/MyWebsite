@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file://F%3A/Development/MyWebsite/app/page.tsx"],"sourcesContent":["\"use client\"\r\n\r\n\r\nimport Image from \"next/image\";\r\nexport default function Home() {\r\n  return (\r\n<main className=\"\">\r\n\r\n\r\n\r\n\r\n<div className=\"flex items-center  justify-center mt-32\">\r\n<div className=\"flex flex-col \">\r\n<h1 className=\"text-2xl mr-32 text-slate-300 text-left \">Im darrkenn</h1>\r\n<h1 className=\"text-5xl mr-32 text-slate-300\">Im darrkenn</h1>\r\n</div>\r\n\r\n<img className=\"rounded-full border-3 border-pink-400\" src=\"daisypic.jpg\" ></img>\r\n\r\n</div>\r\n\r\n</main>\r\n);\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;AAIe,SAAS;IACtB,qBACF,8OAAC;QAAK,WAAU;kBAKhB,cAAA,8OAAC;YAAI,WAAU;;8BACf,8OAAC;oBAAI,WAAU;;sCACf,8OAAC;4BAAG,WAAU;sCAA2C;;;;;;sCACzD,8OAAC;4BAAG,WAAU;sCAAgC;;;;;;;;;;;;8BAG9C,8OAAC;oBAAI,WAAU;oBAAwC,KAAI;;;;;;;;;;;;;;;;;AAM3D","debugId":null}},
+    {"offset": {"line": 72, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
