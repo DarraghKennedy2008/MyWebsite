@@ -30,8 +30,9 @@ return (
           to {opacity: 1;}}
         .animate-fadeIn {animation: fadeIn 1s ease-in-out forwards;}
       `}</style>
+
 {/*WELCOME SECTION*/}
-<div id="#first-section" className="flex flex-col md:flex-row items-center justify-center opacity-0 animate-fadeIn h-screen ">
+<div id="#first-section" className="flex flex-col md:flex-row items-center justify-center opacity-0 animate-fadeIn h-screen  ">
   <div className="flex flex-col text-center md:text-left">
     <h1 className="text-8xl md:text-9xl text-slate-100 font-bold tracking-tighter mb-4 md:mr-32">
       Welcome
@@ -54,6 +55,7 @@ return (
     alt="Profile"
   />
 </div>
+
 {/*WHAT IM LEARNING SECTION!!!*/ }
 <div ref={stackRef} className={`transition-opacity duration-800 ease-in-out ${stackVisible ? "opacity-100" : "opacity-0"}`}>
   <div id="#second-section" className="flex flex-col md:flex-row items-center justify-center ">
@@ -64,13 +66,10 @@ return (
   </div>
 </div>
 
-<div className="flex items-center justify-center ">
-<div className="border-3 border-zinc-100 bg-zinc-900 grid-cols-3 ">
 
 
 
-
-</div></div></div>
+</div>
 </main>
 );
 }
