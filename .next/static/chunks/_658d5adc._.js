@@ -20,9 +20,7 @@ function Home() {
     _s();
     {}
     const [stackVisible, setStackVisible] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
-    const [aboutVisible, setAboutVisible] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(false);
     const stackRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"])(null);
-    const aboutRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useRef"])(null);
     (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useEffect"])({
         "Home.useEffect": ()=>{
             const observer = new IntersectionObserver({
@@ -30,7 +28,6 @@ function Home() {
                     entries.forEach({
                         "Home.useEffect": (entry)=>{
                             if (entry.target === stackRef.current) setStackVisible(entry.isIntersecting);
-                            if (entry.target === aboutRef.current) setAboutVisible(entry.isIntersecting);
                         }
                     }["Home.useEffect"]);
                 }
@@ -38,7 +35,6 @@ function Home() {
                 threshold: 0.2
             });
             if (stackRef.current) observer.observe(stackRef.current);
-            if (aboutRef.current) observer.observe(aboutRef.current);
             return ({
                 "Home.useEffect": ()=>observer.disconnect()
             })["Home.useEffect"];
@@ -63,7 +59,7 @@ function Home() {
                                 children: "Welcome"
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
-                                lineNumber: 36,
+                                lineNumber: 32,
                                 columnNumber: 5
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -75,14 +71,14 @@ function Home() {
                                         children: "Darragh Kennedy"
                                     }, void 0, false, {
                                         fileName: "[project]/app/page.tsx",
-                                        lineNumber: 40,
+                                        lineNumber: 36,
                                         columnNumber: 16
                                     }, this),
                                     ", I am"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
-                                lineNumber: 39,
+                                lineNumber: 35,
                                 columnNumber: 5
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -94,7 +90,7 @@ function Home() {
                                         children: "17"
                                     }, void 0, false, {
                                         fileName: "[project]/app/page.tsx",
-                                        lineNumber: 43,
+                                        lineNumber: 39,
                                         columnNumber: 7
                                     }, this),
                                     " year old",
@@ -104,7 +100,7 @@ function Home() {
                                         children: "student"
                                     }, void 0, false, {
                                         fileName: "[project]/app/page.tsx",
-                                        lineNumber: 44,
+                                        lineNumber: 40,
                                         columnNumber: 5
                                     }, this),
                                     ". From",
@@ -114,14 +110,14 @@ function Home() {
                                         children: "Ireland"
                                     }, void 0, false, {
                                         fileName: "[project]/app/page.tsx",
-                                        lineNumber: 45,
+                                        lineNumber: 41,
                                         columnNumber: 5
                                     }, this),
                                     "."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/page.tsx",
-                                lineNumber: 42,
+                                lineNumber: 38,
                                 columnNumber: 5
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -129,13 +125,13 @@ function Home() {
                                 children: "Interested in all things computers."
                             }, void 0, false, {
                                 fileName: "[project]/app/page.tsx",
-                                lineNumber: 47,
+                                lineNumber: 43,
                                 columnNumber: 5
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/page.tsx",
-                        lineNumber: 35,
+                        lineNumber: 31,
                         columnNumber: 1
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
@@ -144,13 +140,13 @@ function Home() {
                         className: "jsx-73f6dc2fe708858" + " " + "rounded-full w-64 h-64 md:w-64 md:h-64 border-emerald-400 border-6 mt-4 md:mt-0"
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
-                        lineNumber: 51,
+                        lineNumber: 47,
                         columnNumber: 1
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/page.tsx",
-                lineNumber: 33,
+                lineNumber: 29,
                 columnNumber: 1
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -167,32 +163,32 @@ function Home() {
                             children: "Projects"
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
-                            lineNumber: 66,
+                            lineNumber: 62,
                             columnNumber: 5
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
-                        lineNumber: 65,
+                        lineNumber: 61,
                         columnNumber: 3
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 64,
+                    lineNumber: 60,
                     columnNumber: 3
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
-                lineNumber: 63,
+                lineNumber: 59,
                 columnNumber: 1
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/page.tsx",
-        lineNumber: 24,
+        lineNumber: 20,
         columnNumber: 1
     }, this);
 }
-_s(Home, "8JDcrtSc/GKRPnESLjcfPgNQ9M0=");
+_s(Home, "Q0E10dUKEq3aKqfbSDBWY7U/UMw=");
 _c = Home;
 var _c;
 __turbopack_context__.k.register(_c, "Home");

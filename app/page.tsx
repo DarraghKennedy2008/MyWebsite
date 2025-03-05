@@ -3,21 +3,17 @@ import React, { useEffect, useState, useRef} from "react";
 export default function Home() {
 {/*Appear on scroll code*/}
   const [stackVisible, setStackVisible] = useState(false);
-  const [aboutVisible, setAboutVisible] = useState(false);
   const stackRef = useRef(null);
-  const aboutRef = useRef(null);
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
           if (entry.target === stackRef.current) setStackVisible(entry.isIntersecting);
-          if (entry.target === aboutRef.current) setAboutVisible(entry.isIntersecting);
         });
       },
       { threshold: 0.2 }
     );
     if (stackRef.current) observer.observe(stackRef.current);
-    if (aboutRef.current) observer.observe(aboutRef.current);
     return () => observer.disconnect();
   }, [])
 return (
