@@ -1,5 +1,126 @@
-(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/_658d5adc._.js", {
+(globalThis.TURBOPACK = globalThis.TURBOPACK || []).push(["static/chunks/_b9a1e406._.js", {
 
+"[project]/components/welcome.tsx [app-client] (ecmascript)": ((__turbopack_context__) => {
+"use strict";
+
+var { g: global, d: __dirname, k: __turbopack_refresh__, m: module } = __turbopack_context__;
+{
+__turbopack_context__.s({
+    "default": (()=>Welcomeinfo)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
+;
+function Welcomeinfo() {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        id: "#first-section",
+        className: "flex flex-col md:flex-row items-center justify-center opacity-0 animate-fadeIn ",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "flex flex-col text-center md:text-left",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                        className: "text-8xl md:text-9xl text-slate-100 font-bold tracking-tighter mb-4 md:mr-32",
+                        children: "Welcome"
+                    }, void 0, false, {
+                        fileName: "[project]/components/welcome.tsx",
+                        lineNumber: 5,
+                        columnNumber: 5
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                        className: "text-2xl md:text-3xl text-slate-400 tracking-tighter mb-2 md:mr-32",
+                        children: [
+                            "My name is ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "text-emerald-400 font-bold",
+                                children: "Darragh Kennedy"
+                            }, void 0, false, {
+                                fileName: "[project]/components/welcome.tsx",
+                                lineNumber: 9,
+                                columnNumber: 16
+                            }, this),
+                            ", I am"
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/components/welcome.tsx",
+                        lineNumber: 8,
+                        columnNumber: 5
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                        className: "text-2xl md:text-3xl text-slate-400 tracking-tighter mb-2 md:mr-32",
+                        children: [
+                            "a ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "text-emerald-400 font-bold",
+                                children: "17"
+                            }, void 0, false, {
+                                fileName: "[project]/components/welcome.tsx",
+                                lineNumber: 12,
+                                columnNumber: 7
+                            }, this),
+                            " year old",
+                            " ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "text-emerald-400 font-bold",
+                                children: "student"
+                            }, void 0, false, {
+                                fileName: "[project]/components/welcome.tsx",
+                                lineNumber: 13,
+                                columnNumber: 5
+                            }, this),
+                            ". From",
+                            " ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "text-emerald-400 font-bold",
+                                children: "Ireland"
+                            }, void 0, false, {
+                                fileName: "[project]/components/welcome.tsx",
+                                lineNumber: 14,
+                                columnNumber: 5
+                            }, this),
+                            "."
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/components/welcome.tsx",
+                        lineNumber: 11,
+                        columnNumber: 5
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                        className: "text-2xl md:text-3xl text-slate-400 tracking-tighter mb-4 md:mr-32",
+                        children: "Interested in all things computers."
+                    }, void 0, false, {
+                        fileName: "[project]/components/welcome.tsx",
+                        lineNumber: 16,
+                        columnNumber: 5
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/components/welcome.tsx",
+                lineNumber: 4,
+                columnNumber: 1
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                src: "daisypic.jpg",
+                className: "rounded-full w-32 h-32 md:w-48 md:h-48 border-emerald-400 border-4 mt-4 md:mt-0",
+                alt: "Profile"
+            }, void 0, false, {
+                fileName: "[project]/components/welcome.tsx",
+                lineNumber: 20,
+                columnNumber: 1
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/components/welcome.tsx",
+        lineNumber: 3,
+        columnNumber: 5
+    }, this);
+}
+_c = Welcomeinfo;
+var _c;
+__turbopack_context__.k.register(_c, "Welcomeinfo");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(module, globalThis.$RefreshHelpers$);
+}
+}}),
 "[project]/app/page.tsx [app-client] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
@@ -11,9 +132,11 @@ __turbopack_context__.s({
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/jsx-dev-runtime.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/styled-jsx/style.js [app-client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/compiled/react/index.js [app-client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$welcome$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/welcome.tsx [app-client] (ecmascript)");
 ;
 var _s = __turbopack_context__.k.signature();
 "use client";
+;
 ;
 ;
 function Home() {
@@ -51,110 +174,12 @@ function Home() {
                 id: "73f6dc2fe708858",
                 children: "@keyframes fadeIn{0%{opacity:0}to{opacity:1}}.animate-fadeIn.jsx-73f6dc2fe708858{animation:1s ease-in-out forwards fadeIn}"
             }, void 0, false, void 0, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                id: "#welcome-section",
-                className: "jsx-73f6dc2fe708858" + " " + "flex flex-col md:flex-row items-center pt-24 md:justify-center opacity-0 animate-fadeIn md:pr-32 h-screen",
-                children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-73f6dc2fe708858" + " " + "flex flex-col text-center md:text-left",
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                className: "jsx-73f6dc2fe708858" + " " + "text-8xl md:text-9xl text-slate-100 font-bold tracking-tighter mb-4 md:mr-32",
-                                children: "Welcome"
-                            }, void 0, false, {
-                                fileName: "[project]/app/page.tsx",
-                                lineNumber: 36,
-                                columnNumber: 5
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                className: "jsx-73f6dc2fe708858" + " " + "text-3xl md:text-3xl text-slate-300 tracking-tighter mb-2 md:mr-32",
-                                children: [
-                                    "My name is ",
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "jsx-73f6dc2fe708858" + " " + "text-emerald-400 font-bold",
-                                        children: "Darragh Kennedy"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/page.tsx",
-                                        lineNumber: 40,
-                                        columnNumber: 16
-                                    }, this),
-                                    ", I am"
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/app/page.tsx",
-                                lineNumber: 39,
-                                columnNumber: 5
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                className: "jsx-73f6dc2fe708858" + " " + "text-3xl md:text-3xl text-slate-300 tracking-tighter mb-2 md:mr-32",
-                                children: [
-                                    "a ",
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "jsx-73f6dc2fe708858" + " " + "text-emerald-400 font-bold",
-                                        children: "17"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/page.tsx",
-                                        lineNumber: 43,
-                                        columnNumber: 7
-                                    }, this),
-                                    " year old",
-                                    " ",
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "jsx-73f6dc2fe708858" + " " + "text-emerald-400 font-bold",
-                                        children: "student"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/page.tsx",
-                                        lineNumber: 44,
-                                        columnNumber: 5
-                                    }, this),
-                                    ". From",
-                                    " ",
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "jsx-73f6dc2fe708858" + " " + "text-emerald-400 font-bold",
-                                        children: "Ireland"
-                                    }, void 0, false, {
-                                        fileName: "[project]/app/page.tsx",
-                                        lineNumber: 45,
-                                        columnNumber: 5
-                                    }, this),
-                                    "."
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/app/page.tsx",
-                                lineNumber: 42,
-                                columnNumber: 5
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                className: "jsx-73f6dc2fe708858" + " " + "text-3xl md:text-3xl text-slate-300 tracking-tighter mb-4 md:mr-32",
-                                children: "Interested in all things computers."
-                            }, void 0, false, {
-                                fileName: "[project]/app/page.tsx",
-                                lineNumber: 47,
-                                columnNumber: 5
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 35,
-                        columnNumber: 1
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                        src: "daisypic.jpg",
-                        alt: "Profile",
-                        className: "jsx-73f6dc2fe708858" + " " + "rounded-full w-64 h-64 md:w-64 md:h-64 border-emerald-400 border-6 mt-4 md:mt-0"
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 51,
-                        columnNumber: 1
-                    }, this)
-                ]
-            }, void 0, true, {
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$welcome$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/app/page.tsx",
-                lineNumber: 33,
+                lineNumber: 36,
                 columnNumber: 1
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                id: "LearningSection",
                 ref: stackRef,
                 className: "jsx-73f6dc2fe708858" + " " + `transition-opacity duration-800 ease-in-out ${stackVisible ? "opacity-100" : "opacity-0"}`,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -164,31 +189,31 @@ function Home() {
                         className: "jsx-73f6dc2fe708858" + " " + "flex flex-col text-center",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "jsx-73f6dc2fe708858" + " " + "text-7xl md:text-7xl text-slate-100 font-bold tracking-tighter mb-4 ",
-                            children: "Projects"
+                            children: "Languages im learning"
                         }, void 0, false, {
                             fileName: "[project]/app/page.tsx",
-                            lineNumber: 66,
+                            lineNumber: 44,
                             columnNumber: 5
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/app/page.tsx",
-                        lineNumber: 65,
+                        lineNumber: 43,
                         columnNumber: 3
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/app/page.tsx",
-                    lineNumber: 64,
+                    lineNumber: 42,
                     columnNumber: 3
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/page.tsx",
-                lineNumber: 63,
+                lineNumber: 41,
                 columnNumber: 1
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/page.tsx",
-        lineNumber: 24,
+        lineNumber: 25,
         columnNumber: 1
     }, this);
 }
@@ -928,4 +953,4 @@ module.exports = __turbopack_context__.r("[project]/node_modules/styled-jsx/dist
 }}),
 }]);
 
-//# sourceMappingURL=_658d5adc._.js.map
+//# sourceMappingURL=_b9a1e406._.js.map
