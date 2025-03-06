@@ -19,7 +19,7 @@ export default function WelcomeText() {
 My name is <span className="text-emerald-400 font-bold">Darragh Kennedy</span>, I am a <span className="text-emerald-400 font-bold">17</span> year old <span className="text-emerald-400 font-bold">student </span>
 from <span className="text-emerald-400 font-bold opacity-100">Derry</span>, Ireland. </p>
 <p className="text-2xl text-slate-200 tracking-tighter text-center md:text-left ">
-I'm passionate about Technology mostly <span className="text-emerald-400 font-bold">Software-Development</span>/<span className="text-emerald-400 font-bold">Cyber-Security</span>
+I&apos;m passionate about Technology mostly <span className="text-emerald-400 font-bold">Software-Development</span>/<span className="text-emerald-400 font-bold">Cyber-Security</span>
 </p>
 </div>
 </div>
