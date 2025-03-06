@@ -12,7 +12,7 @@ export default function WelcomeText() {
     </style>
 <div id="#welcome-section" className="flex flex-row items-center justify-center opacity-0 animate-fadeIn h-screen lg:pb-16" >
 {/* This is a fucking mess holy shit*/}
-<div className="">
+<div>
 <h1 className="text-8xl md:text-9xl lg:text-[12rem] text-slate-100 font-extrabold tracking-tighter text-center pb-2"> Welcome</h1>
 <hr className="h-px my-0 bg-emerald-400 border-2 border-emerald-400" />
 <p className="text-2xl text-slate-200 tracking-tighter text-center md:text-left pt-2">
