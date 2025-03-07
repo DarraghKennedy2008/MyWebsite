@@ -171,7 +171,7 @@ function WelcomeText() {
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "text-2xl text-slate-200 tracking-tighter text-center pt-2 cursor-default",
+                            className: "jsx-a05ed66b8efa07c9" + " " + "sm:text-xl md:text-2xl text-slate-200 tracking-tighter text-center pt-2 cursor-default",
                             children: [
                                 "My name is ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -217,7 +217,7 @@ function WelcomeText() {
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "text-2xl text-slate-200 tracking-tighter text-center cursor-default",
+                            className: "jsx-a05ed66b8efa07c9" + " " + "sm:text-xl md:text-2xl text-slate-200 tracking-tighter text-center cursor-default",
                             children: [
                                 "I'm passionate about Technology mostly ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -244,7 +244,7 @@ function WelcomeText() {
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "text-xl text-emerald-400 opacity-20 tracking-tighter text-center  cursor-default",
+                            className: "jsx-a05ed66b8efa07c9" + " " + "sm:text-sm md:text-xl text-emerald-400 opacity-20 tracking-tighter text-center  cursor-default",
                             children: "*Click each letter of the WELCOME text*"
                         }, void 0, false, {
                             fileName: "[project]/components/welcome.tsx",

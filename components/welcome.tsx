@@ -26,13 +26,13 @@ export default function WelcomeText() {
     <span className="hover:text-violet-500 cursor-default"><a href="https://www.youtube.com/watch?v=zfyQ8muKLdc" target="_blank">E</a></span>
     </h1>
 <hr className="h-px my-0 bg-emerald-400 border-2 border-emerald-400" />
-<p className="text-2xl text-slate-200 tracking-tighter text-center pt-2 cursor-default">
+<p className="sm:text-xl md:text-2xl text-slate-200 tracking-tighter text-center pt-2 cursor-default">
 My name is <span className="text-emerald-400 font-bold">Darragh Kennedy</span>, I am a <span className="text-emerald-400 font-bold">17</span> year old <span className="text-emerald-400 font-bold">student </span>
 from <span className="text-emerald-400 font-bold opacity-100">Derry</span>, Ireland. </p>
-<p className="text-2xl text-slate-200 tracking-tighter text-center cursor-default">
+<p className="sm:text-xl md:text-2xl text-slate-200 tracking-tighter text-center cursor-default">
 I&apos;m passionate about Technology mostly <span className="text-emerald-400 font-bold">Software-Development</span>/<span className="text-emerald-400 font-bold">Cyber-Security</span>
 </p>
-<p className="text-xl text-emerald-400 opacity-20 tracking-tighter text-center  cursor-default">*Click each letter of the WELCOME text*</p>
+<p className="sm:text-sm md:text-xl text-emerald-400 opacity-20 tracking-tighter text-center  cursor-default">*Click each letter of the WELCOME text*</p>
 </div>
 </div>
 </main>
