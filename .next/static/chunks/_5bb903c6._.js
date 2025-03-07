@@ -32,7 +32,7 @@ function WelcomeText() {
                             children: "Website still under construction🚧"
                         }, void 0, false, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 18,
+                            lineNumber: 19,
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -47,12 +47,12 @@ function WelcomeText() {
                                         children: "W"
                                     }, void 0, false, {
                                         fileName: "[project]/components/welcome.tsx",
-                                        lineNumber: 20,
+                                        lineNumber: 21,
                                         columnNumber: 57
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 20,
+                                    lineNumber: 21,
                                     columnNumber: 5
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -64,12 +64,12 @@ function WelcomeText() {
                                         children: "E"
                                     }, void 0, false, {
                                         fileName: "[project]/components/welcome.tsx",
-                                        lineNumber: 21,
+                                        lineNumber: 22,
                                         columnNumber: 60
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 21,
+                                    lineNumber: 22,
                                     columnNumber: 5
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -81,12 +81,12 @@ function WelcomeText() {
                                         children: "L"
                                     }, void 0, false, {
                                         fileName: "[project]/components/welcome.tsx",
-                                        lineNumber: 22,
+                                        lineNumber: 23,
                                         columnNumber: 60
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 22,
+                                    lineNumber: 23,
                                     columnNumber: 5
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -98,12 +98,12 @@ function WelcomeText() {
                                         children: "C"
                                     }, void 0, false, {
                                         fileName: "[project]/components/welcome.tsx",
-                                        lineNumber: 23,
+                                        lineNumber: 24,
                                         columnNumber: 59
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 23,
+                                    lineNumber: 24,
                                     columnNumber: 5
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -115,12 +115,12 @@ function WelcomeText() {
                                         children: "O"
                                     }, void 0, false, {
                                         fileName: "[project]/components/welcome.tsx",
-                                        lineNumber: 24,
+                                        lineNumber: 25,
                                         columnNumber: 58
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 24,
+                                    lineNumber: 25,
                                     columnNumber: 5
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -132,12 +132,12 @@ function WelcomeText() {
                                         children: "M"
                                     }, void 0, false, {
                                         fileName: "[project]/components/welcome.tsx",
-                                        lineNumber: 25,
+                                        lineNumber: 26,
                                         columnNumber: 60
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 25,
+                                    lineNumber: 26,
                                     columnNumber: 5
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -149,25 +149,25 @@ function WelcomeText() {
                                         children: "E"
                                     }, void 0, false, {
                                         fileName: "[project]/components/welcome.tsx",
-                                        lineNumber: 26,
+                                        lineNumber: 27,
                                         columnNumber: 60
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 26,
+                                    lineNumber: 27,
                                     columnNumber: 5
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 19,
+                            lineNumber: 20,
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("hr", {
                             className: "jsx-a05ed66b8efa07c9" + " " + "h-px my-0 bg-emerald-400 border-2 border-emerald-400"
                         }, void 0, false, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 28,
+                            lineNumber: 29,
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -179,7 +179,7 @@ function WelcomeText() {
                                     children: "Darragh Kennedy"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 30,
+                                    lineNumber: 31,
                                     columnNumber: 12
                                 }, this),
                                 ", I am a ",
@@ -188,7 +188,7 @@ function WelcomeText() {
                                     children: "17"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 30,
+                                    lineNumber: 31,
                                     columnNumber: 88
                                 }, this),
                                 " year old ",
@@ -197,7 +197,7 @@ function WelcomeText() {
                                     children: "student "
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 30,
+                                    lineNumber: 31,
                                     columnNumber: 152
                                 }, this),
                                 "from ",
@@ -206,14 +206,14 @@ function WelcomeText() {
                                     children: "Derry"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 31,
+                                    lineNumber: 32,
                                     columnNumber: 6
                                 }, this),
                                 ", Ireland. "
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 29,
+                            lineNumber: 30,
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -225,7 +225,7 @@ function WelcomeText() {
                                     children: "Software-Development"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 33,
+                                    lineNumber: 34,
                                     columnNumber: 45
                                 }, this),
                                 "/",
@@ -234,13 +234,13 @@ function WelcomeText() {
                                     children: "Cyber-Security"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 33,
+                                    lineNumber: 34,
                                     columnNumber: 118
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 32,
+                            lineNumber: 33,
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -248,24 +248,24 @@ function WelcomeText() {
                             children: "*Click each letter of the WELCOME text*"
                         }, void 0, false, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 35,
+                            lineNumber: 36,
                             columnNumber: 1
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/welcome.tsx",
-                    lineNumber: 17,
+                    lineNumber: 18,
                     columnNumber: 1
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/welcome.tsx",
-                lineNumber: 15,
+                lineNumber: 16,
                 columnNumber: 1
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/components/welcome.tsx",
-        lineNumber: 4,
+        lineNumber: 5,
         columnNumber: 1
     }, this);
 }

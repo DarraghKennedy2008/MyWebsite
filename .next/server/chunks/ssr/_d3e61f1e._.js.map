@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/darragh/Development/MyWebsite/app/blog/page.tsx"],"sourcesContent":["\"use client\"\nexport default function Blog() {\nreturn (\n<main className=\"flex justify-center items-center \">\n\n<h1 className=\"text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-slate-100 font-bold tracking-tighter pt-24\">Blog</h1>\n\n\n\n</main>\n);\n}\n"],"names":[],"mappings":";;;;AAAA;;AACe,SAAS;IACxB,qBACA,8OAAC;QAAK,WAAU;kBAEhB,cAAA,8OAAC;YAAG,WAAU;sBAA+F;;;;;;;;;;;AAM7G","debugId":null}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 35, "column": 0}, "map": {"version":3,"sources":["file:///home/darragh/Development/MyWebsite/node_modules/next/src/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-ssr'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,4HAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0],"debugId":null}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

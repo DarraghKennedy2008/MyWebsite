@@ -1,6 +1,6 @@
 "use client"
-import WelcomeText from "@/components/welcome";
-import Projects from "@/components/projects";
+import WelcomeText from "@/components/Homepage/welcome";
+import Projects from "@/components/Homepage/projects";
 export default function Home() {
 return (
 <main>
@@ -9,7 +9,6 @@ return (
 <WelcomeText />
 {/*Projects i haveuhhhh */}
 <Projects />
-
 </main>
 );
 }
