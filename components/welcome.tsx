@@ -16,7 +16,7 @@ export default function WelcomeText() {
 {/* This is a fucking mess holy shit*/}
 <div>
 <p className="text-2xl text-red-500 tracking-tighter text-center  cursor-default">Website still under construction🚧</p>
-<h1 className="text-8xl md:text-9xl lg:text-[12rem] text-slate-100 font-extrabold tracking-tighter text-center pb-2">
+<h1 className="text-7xl md:text-9xl lg:text-[12rem] text-slate-100 font-extrabold tracking-tighter text-center pb-2">
     <span className="hover:text-red-500 cursor-default"><a href="https://www.youtube.com/watch?v=wyoMCQn0ZD0&list=PLweUFcMiKqgJsqxd4ohXNR6RgFO1fEIBZ&index=15" target="_blank">W</a></span>
     <span className="hover:text-orange-500 cursor-default"><a href="mygirlfriend.webp" target="_blank">E</a></span>
     <span className="hover:text-yellow-500 cursor-default"><a href="lily.webp" target="_blank">L</a></span>
