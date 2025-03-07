@@ -112,23 +112,6 @@ function Navbar() {
                 lineNumber: 10,
                 columnNumber: 9
             }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                href: {
-                    pathname: '/ran-util'
-                },
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                    className: "font-bold hover:scale-105 text-xl md:text-2xl hover:text-zinc-200 active:scale-120 tracking-tight transition-all duration-200",
-                    children: "RAN-UTIL"
-                }, void 0, false, {
-                    fileName: "[project]/components/Global/navbar.tsx",
-                    lineNumber: 14,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "[project]/components/Global/navbar.tsx",
-                lineNumber: 13,
-                columnNumber: 9
-            }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                 href: "https://github.com/DarraghKennedy2008",
                 target: "_blank",
@@ -137,12 +120,12 @@ function Navbar() {
                     src: "logos/github.svg"
                 }, void 0, false, {
                     fileName: "[project]/components/Global/navbar.tsx",
-                    lineNumber: 16,
+                    lineNumber: 13,
                     columnNumber: 115
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/Global/navbar.tsx",
-                lineNumber: 16,
+                lineNumber: 13,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -153,12 +136,12 @@ function Navbar() {
                     src: "logos/linkedIn.svg"
                 }, void 0, false, {
                     fileName: "[project]/components/Global/navbar.tsx",
-                    lineNumber: 17,
+                    lineNumber: 14,
                     columnNumber: 132
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/Global/navbar.tsx",
-                lineNumber: 17,
+                lineNumber: 14,
                 columnNumber: 9
             }, this)
         ]

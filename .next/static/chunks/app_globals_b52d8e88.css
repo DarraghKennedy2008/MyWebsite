@@ -614,6 +614,10 @@
     margin-block: calc(var(--spacing) * 1);
   }
 
+  .my-4 {
+    margin-block: calc(var(--spacing) * 4);
+  }
+
   .my-8 {
     margin-block: calc(var(--spacing) * 8);
   }
@@ -2168,10 +2172,6 @@
     text-align: right;
   }
 
-  .text-right\! {
-    text-align: right !important;
-  }
-
   .align-bottom {
     vertical-align: bottom;
   }
@@ -2252,16 +2252,8 @@
     line-height: var(--tw-leading, var(--text-xl--line-height));
   }
 
-  .text-\[10px\] {
-    font-size: 10px;
-  }
-
   .text-\[12px\] {
     font-size: 12px;
-  }
-
-  .text-\[20px\] {
-    font-size: 20px;
   }
 
   .leading-none {
@@ -2342,6 +2334,10 @@
     color: var(--color-black);
   }
 
+  .text-blue-500 {
+    color: var(--color-blue-500);
+  }
+
   .text-card-foreground {
     color: var(--card-foreground);
   }
@@ -2400,6 +2396,10 @@
 
   .text-purple-600 {
     color: var(--color-purple-600);
+  }
+
+  .text-red-400 {
+    color: var(--color-red-400);
   }
 
   .text-red-500 {
@@ -2558,6 +2558,10 @@
 
   .opacity-25 {
     opacity: .25;
+  }
+
+  .opacity-40 {
+    opacity: .4;
   }
 
   .opacity-45 {
@@ -3017,24 +3021,6 @@
   }
 
   @media (hover: hover) {
-    .hover\:scale-101:hover {
-      --tw-scale-x: 101%;
-      --tw-scale-y: 101%;
-      --tw-scale-z: 101%;
-      scale: var(--tw-scale-x) var(--tw-scale-y);
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:scale-102:hover {
-      --tw-scale-x: 102%;
-      --tw-scale-y: 102%;
-      --tw-scale-z: 102%;
-      scale: var(--tw-scale-x) var(--tw-scale-y);
-    }
-  }
-
-  @media (hover: hover) {
     .hover\:scale-105:hover {
       --tw-scale-x: 105%;
       --tw-scale-y: 105%;
@@ -3243,13 +3229,6 @@
     --tw-scale-x: 102%;
     --tw-scale-y: 102%;
     --tw-scale-z: 102%;
-    scale: var(--tw-scale-x) var(--tw-scale-y);
-  }
-
-  .active\:scale-105:active {
-    --tw-scale-x: 105%;
-    --tw-scale-y: 105%;
-    --tw-scale-z: 105%;
     scale: var(--tw-scale-x) var(--tw-scale-y);
   }
 
@@ -3566,34 +3545,6 @@
   }
 
   @media (width >= 40rem) {
-    .sm\:size-8 {
-      width: calc(var(--spacing) * 8);
-      height: calc(var(--spacing) * 8);
-    }
-  }
-
-  @media (width >= 40rem) {
-    .sm\:size-12 {
-      width: calc(var(--spacing) * 12);
-      height: calc(var(--spacing) * 12);
-    }
-  }
-
-  @media (width >= 40rem) {
-    .sm\:size-16 {
-      width: calc(var(--spacing) * 16);
-      height: calc(var(--spacing) * 16);
-    }
-  }
-
-  @media (width >= 40rem) {
-    .sm\:size-64 {
-      width: calc(var(--spacing) * 64);
-      height: calc(var(--spacing) * 64);
-    }
-  }
-
-  @media (width >= 40rem) {
     .sm\:h-12 {
       height: calc(var(--spacing) * 12);
     }
@@ -3638,13 +3589,6 @@
   @media (width >= 40rem) {
     .sm\:text-left {
       text-align: left;
-    }
-  }
-
-  @media (width >= 40rem) {
-    .sm\:text-3xl {
-      font-size: var(--text-3xl);
-      line-height: var(--tw-leading, var(--text-3xl--line-height));
     }
   }
 
@@ -3729,27 +3673,6 @@
     .md\:size-14 {
       width: calc(var(--spacing) * 14);
       height: calc(var(--spacing) * 14);
-    }
-  }
-
-  @media (width >= 48rem) {
-    .md\:size-16 {
-      width: calc(var(--spacing) * 16);
-      height: calc(var(--spacing) * 16);
-    }
-  }
-
-  @media (width >= 48rem) {
-    .md\:size-64 {
-      width: calc(var(--spacing) * 64);
-      height: calc(var(--spacing) * 64);
-    }
-  }
-
-  @media (width >= 48rem) {
-    .md\:size-128 {
-      width: calc(var(--spacing) * 128);
-      height: calc(var(--spacing) * 128);
     }
   }
 
@@ -3923,27 +3846,6 @@
     .lg\:size-14 {
       width: calc(var(--spacing) * 14);
       height: calc(var(--spacing) * 14);
-    }
-  }
-
-  @media (width >= 64rem) {
-    .lg\:size-16 {
-      width: calc(var(--spacing) * 16);
-      height: calc(var(--spacing) * 16);
-    }
-  }
-
-  @media (width >= 64rem) {
-    .lg\:size-64 {
-      width: calc(var(--spacing) * 64);
-      height: calc(var(--spacing) * 64);
-    }
-  }
-
-  @media (width >= 64rem) {
-    .lg\:size-128 {
-      width: calc(var(--spacing) * 128);
-      height: calc(var(--spacing) * 128);
     }
   }
 

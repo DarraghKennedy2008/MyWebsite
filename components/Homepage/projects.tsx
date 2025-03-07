@@ -23,7 +23,8 @@ return (
         <div className="flex flex-col items-center justify-center w-full">
           {/*TITTLE */}
         <div className="flex flex-col text-center pb-8">
-            <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-slate-100 font-bold tracking-tighter mb-4">Projects</h1>
+            <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-slate-100 font-bold tracking-tighter mb-2">Projects</h1>
+            <h1 className="text-xl sm:text-xl md:text-xl lg:text-2xl text-red-500 font-bold tracking-tighter opacity-40">These arent developed yet</h1>
         </div>
         {/*Project1 i think */}
         <div className="p-4 w-full max-w-6xl flex justify-center cursor-pointer" >
@@ -45,8 +46,8 @@ return (
             <div className="w-full lg:w-148 lg:h-64 border-3 border-zinc-200 rounded-2xl flex flex-col lg:flex-row p-4 bg-stone-900 hover:scale-105 transition-transform duration-300">
               {/*name and description of project */}
             <div className="flex flex-col w-full lg:w-2/3 pr-0 lg:pr-4">
-                <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-emerald-400 font-bold tracking-tighter mb-2">Panko Clicker</h1>
-                <p className="text-lg sm:text-xl text-slate-100 lg:pb-8">Simple clicker game</p>
+                <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-emerald-400 font-bold tracking-tighter mb-2">Flashnote</h1>
+                <p className="text-lg sm:text-xl text-slate-100 lg:pb-8">Flash-card creation app built using Next.js/Prisma</p>
                 {/*SVGS OF TECHNOLOGY USED */}
             </div>
               {/*Image of project */}

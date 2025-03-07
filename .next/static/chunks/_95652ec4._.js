@@ -20,7 +20,7 @@ function Blog() {
                 children: "Blog"
             }, void 0, false, {
                 fileName: "[project]/app/blog/page.tsx",
-                lineNumber: 6,
+                lineNumber: 5,
                 columnNumber: 1
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -43,43 +43,43 @@ function Blog() {
                                                 children: " 07/03/2025"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/blog/page.tsx",
-                                                lineNumber: 13,
+                                                lineNumber: 12,
                                                 columnNumber: 86
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 13,
+                                        lineNumber: 12,
                                         columnNumber: 9
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/blog/page.tsx",
-                                lineNumber: 12,
+                                lineNumber: 11,
                                 columnNumber: 5
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-lg sm:text-xl text-slate-100 lg: break-words",
-                                children: "This is a test. NGL though the website is looking kinda fire. What do I write here, IDK im gonna do the fade in on scroll animation next. Then probably work on the Ran-Util page. Thinking of what to add to that page, probably like a calculator and a converter. Its 3am rn i gotta go eat something. Diary Signing Off🤓☝️!"
+                                children: "This is a test. NGL though the website is looking kinda fire. What do I write here, IDK im gonna do the fade in on scroll animation next. Then probably work on the Ran-Util project. Thinking of what to add to it, probably like a calculator and a converter. Its 3am rn i gotta go eat something. Diary Signing Off🤓☝️!"
                             }, void 0, false, {
                                 fileName: "[project]/app/blog/page.tsx",
-                                lineNumber: 16,
+                                lineNumber: 15,
                                 columnNumber: 5
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/blog/page.tsx",
-                        lineNumber: 11,
+                        lineNumber: 10,
                         columnNumber: 5
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/app/blog/page.tsx",
-                    lineNumber: 9,
+                    lineNumber: 8,
                     columnNumber: 1
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/blog/page.tsx",
-                lineNumber: 8,
+                lineNumber: 7,
                 columnNumber: 9
             }, this)
         ]

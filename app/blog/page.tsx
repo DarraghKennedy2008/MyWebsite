@@ -2,7 +2,6 @@
 export default function Blog() {
 return (
 <main className="flex justify-center items-center flex-col ">
-
 <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-slate-100 font-bold tracking-tighter pt-24 pb-8">Blog</h1>
 
         <div className="p-4 w-full max-w-6xl flex justify-center cursor-pointer">
@@ -14,8 +13,8 @@ return (
     
     {/*Input whatever I wanna talk about*/}
     <p className="text-lg sm:text-xl text-slate-100 lg: break-words"> 
-        This is a test. NGL though the website is looking kinda fire. What do I write here, IDK im gonna do the fade in on scroll animation next. Then probably work on the Ran-Util page.
-        Thinking of what to add to that page, probably like a calculator and a converter. Its 3am rn i gotta go eat something. Diary Signing Off🤓☝️!
+        This is a test. NGL though the website is looking kinda fire. What do I write here, IDK im gonna do the fade in on scroll animation next. Then probably work on the Ran-Util project.
+        Thinking of what to add to it, probably like a calculator and a converter. Its 3am rn i gotta go eat something. Diary Signing Off🤓☝️!
     </p>
     </div>
 </div>

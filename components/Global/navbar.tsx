@@ -10,9 +10,6 @@ export default function Navbar() {
         <Link href={{ pathname: '/blog' }}>
         <h1 className="font-bold hover:scale-105  text-xl md:text-2xl hover:text-zinc-200 active:scale-120 tracking-tight transition-all duration-200">BLOG</h1>
         </Link>
-        <Link href={{ pathname: '/ran-util' }}>
-        <h1 className="font-bold hover:scale-105 text-xl md:text-2xl hover:text-zinc-200 active:scale-120 tracking-tight transition-all duration-200">RAN-UTIL</h1>
-        </Link>
         <a href="https://github.com/DarraghKennedy2008" target="_blank" className="size-8  md:size-14 lg:size-14"><img src="logos/github.svg"></img></a>
         <a href="https://www.linkedin.com/in/darragh-kennedy-6b6509326/" target="_blank" className="size-8  md:size-14 lg:size-14"><img src="logos/linkedIn.svg"></img></a>
     </div>
