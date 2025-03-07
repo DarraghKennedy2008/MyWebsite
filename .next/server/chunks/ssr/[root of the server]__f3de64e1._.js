@@ -32,21 +32,21 @@ function WelcomeText() {
                 id: "#welcome-section",
                 className: "jsx-a05ed66b8efa07c9" + " " + "flex flex-row items-center justify-center opacity-0 animate-fadeIn h-screen lg:pb-16",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-a05ed66b8efa07c9" + " " + "",
+                    className: "jsx-a05ed66b8efa07c9",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: "jsx-a05ed66b8efa07c9" + " " + "text-8xl md:text-9xl lg:text-[12rem] text-slate-100 font-extrabold tracking-tighter text-center pb-2",
                             children: " Welcome"
                         }, void 0, false, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 15,
+                            lineNumber: 16,
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("hr", {
                             className: "jsx-a05ed66b8efa07c9" + " " + "h-px my-0 bg-emerald-400 border-2 border-emerald-400"
                         }, void 0, false, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 16,
+                            lineNumber: 17,
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -58,7 +58,7 @@ function WelcomeText() {
                                     children: "Darragh Kennedy"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 18,
+                                    lineNumber: 19,
                                     columnNumber: 12
                                 }, this),
                                 ", I am a ",
@@ -67,7 +67,7 @@ function WelcomeText() {
                                     children: "17"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 18,
+                                    lineNumber: 19,
                                     columnNumber: 88
                                 }, this),
                                 " year old ",
@@ -76,7 +76,7 @@ function WelcomeText() {
                                     children: "student "
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 18,
+                                    lineNumber: 19,
                                     columnNumber: 152
                                 }, this),
                                 "from ",
@@ -85,14 +85,14 @@ function WelcomeText() {
                                     children: "Derry"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 19,
+                                    lineNumber: 20,
                                     columnNumber: 6
                                 }, this),
                                 ", Ireland. "
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 17,
+                            lineNumber: 18,
                             columnNumber: 1
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -104,8 +104,8 @@ function WelcomeText() {
                                     children: "Software-Development"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 21,
-                                    columnNumber: 40
+                                    lineNumber: 22,
+                                    columnNumber: 45
                                 }, this),
                                 "/",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -113,24 +113,24 @@ function WelcomeText() {
                                     children: "Cyber-Security"
                                 }, void 0, false, {
                                     fileName: "[project]/components/welcome.tsx",
-                                    lineNumber: 21,
-                                    columnNumber: 113
+                                    lineNumber: 22,
+                                    columnNumber: 118
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/welcome.tsx",
-                            lineNumber: 20,
+                            lineNumber: 21,
                             columnNumber: 1
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/welcome.tsx",
-                    lineNumber: 14,
+                    lineNumber: 15,
                     columnNumber: 1
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/welcome.tsx",
-                lineNumber: 12,
+                lineNumber: 13,
                 columnNumber: 1
             }, this)
         ]
@@ -150,77 +150,20 @@ __turbopack_context__.s({
     "default": (()=>Home)
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/styled-jsx/style.js [app-ssr] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react.js [app-ssr] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$welcome$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/welcome.tsx [app-ssr] (ecmascript)");
 "use client";
 ;
 ;
-;
-;
 function Home() {
-    {}
-    const [stackVisible, setStackVisible] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useState"])(false);
-    const stackRef = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useRef"])(null);
-    (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useEffect"])(()=>{
-        const observer = new IntersectionObserver((entries)=>{
-            entries.forEach((entry)=>{
-                if (entry.target === stackRef.current) setStackVisible(entry.isIntersecting);
-            });
-        }, {
-            threshold: 0.2
-        });
-        if (stackRef.current) observer.observe(stackRef.current);
-        return ()=>observer.disconnect();
-    }, []);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-        className: "jsx-73f6dc2fe708858",
-        children: [
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
-                id: "73f6dc2fe708858",
-                children: "@keyframes fadeIn{0%{opacity:0}to{opacity:1}}.animate-fadeIn.jsx-73f6dc2fe708858{animation:1s ease-in-out forwards fadeIn}"
-            }, void 0, false, void 0, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$welcome$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 32,
-                columnNumber: 1
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                id: "LearningSection",
-                ref: stackRef,
-                className: "jsx-73f6dc2fe708858" + " " + `transition-opacity duration-800 ease-in-out ${stackVisible ? "opacity-100" : "opacity-0"}`,
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    id: "#second-section",
-                    className: "jsx-73f6dc2fe708858" + " " + "flex flex-col md:flex-row items-center justify-center ",
-                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-73f6dc2fe708858" + " " + "flex flex-col text-center",
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "jsx-73f6dc2fe708858" + " " + "text-7xl md:text-7xl text-slate-100 font-bold tracking-tighter mb-4 ",
-                            children: "Projects"
-                        }, void 0, false, {
-                            fileName: "[project]/app/page.tsx",
-                            lineNumber: 43,
-                            columnNumber: 5
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "[project]/app/page.tsx",
-                        lineNumber: 42,
-                        columnNumber: 3
-                    }, this)
-                }, void 0, false, {
-                    fileName: "[project]/app/page.tsx",
-                    lineNumber: 41,
-                    columnNumber: 3
-                }, this)
-            }, void 0, false, {
-                fileName: "[project]/app/page.tsx",
-                lineNumber: 40,
-                columnNumber: 1
-            }, this)
-        ]
-    }, void 0, true, {
+        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$welcome$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+            fileName: "[project]/app/page.tsx",
+            lineNumber: 9,
+            columnNumber: 1
+        }, this)
+    }, void 0, false, {
         fileName: "[project]/app/page.tsx",
-        lineNumber: 21,
+        lineNumber: 6,
         columnNumber: 1
     }, this);
 }
