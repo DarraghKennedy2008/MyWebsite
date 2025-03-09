@@ -398,7 +398,7 @@ function Projects() {
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                             className: "text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-emerald-400 font-bold tracking-tighter mb-2",
-                                            children: "Flashnote"
+                                            children: "Teclassia"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Homepage/projects.tsx",
                                             lineNumber: 49,
@@ -406,7 +406,7 @@ function Projects() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-lg sm:text-xl text-slate-100 lg:pb-8",
-                                            children: "Flash-card creation app built using Next.js/Prisma"
+                                            children: "Simple Terraria class guide website built using Next.js"
                                         }, void 0, false, {
                                             fileName: "[project]/components/Homepage/projects.tsx",
                                             lineNumber: 50,

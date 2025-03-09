@@ -46,8 +46,8 @@ return (
             <div className="w-full lg:w-148 lg:h-64 border-3 border-zinc-200 rounded-2xl flex flex-col lg:flex-row p-4 bg-stone-900 hover:scale-105 transition-transform duration-300">
               {/*name and description of project */}
             <div className="flex flex-col w-full lg:w-2/3 pr-0 lg:pr-4">
-                <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-emerald-400 font-bold tracking-tighter mb-2">Flashnote</h1>
-                <p className="text-lg sm:text-xl text-slate-100 lg:pb-8">Flash-card creation app built using Next.js/Prisma</p>
+                <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl text-emerald-400 font-bold tracking-tighter mb-2">Teclassia</h1>
+                <p className="text-lg sm:text-xl text-slate-100 lg:pb-8">Simple Terraria class guide website built using Next.js</p>
                 {/*SVGS OF TECHNOLOGY USED */}
             </div>
               {/*Image of project */}
