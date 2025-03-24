@@ -10,7 +10,7 @@ export default function WelcomeText() {
         .animate-fadeIn {animation: fadeIn 1s ease-in-out forwards;}
     `}
     </style>
-<div id="#welcome-section" className="flex flex-row items-center justify-center opacity-0 animate-fadeIn pb-64 pt-64" >
+<div id="#welcome-section" className="flex flex-row items-center justify-center opacity-0 animate-fadeIn h-screen" >
 {/* This is a fucking mess holy shit*/}
 <div>
 <p className="text-2xl text-red-500 tracking-tighter text-center  cursor-default">Website still under construction🚧</p>
