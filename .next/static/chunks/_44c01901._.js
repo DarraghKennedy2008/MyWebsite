@@ -15,138 +15,103 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$js
 ;
 function WelcomeText() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-        className: "jsx-a05ed66b8efa07c9",
+        className: "jsx-401f09597490a33e",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                id: "a05ed66b8efa07c9",
-                children: "@keyframes fadeIn{0%{opacity:0}to{opacity:1}}.animate-fadeIn.jsx-a05ed66b8efa07c9{animation:1s ease-in-out forwards fadeIn}"
+                id: "401f09597490a33e",
+                children: "@keyframes fadeIn{0%{opacity:0}to{opacity:1}}.animate-fadeIn.jsx-401f09597490a33e{animation:1s ease-in-out forwards fadeIn}"
             }, void 0, false, void 0, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                id: "#welcome-section",
-                className: "jsx-a05ed66b8efa07c9" + " " + "flex flex-row items-center justify-center opacity-0 animate-fadeIn h-screen",
+                className: "jsx-401f09597490a33e" + " " + "flex flex-row items-center justify-center opacity-0 animate-fadeIn h-screen",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "jsx-a05ed66b8efa07c9",
+                    className: "jsx-401f09597490a33e",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "text-2xl text-red-500 tracking-tighter text-center  cursor-default",
+                            className: "jsx-401f09597490a33e" + " " + "text-2xl text-red-500 tracking-tighter text-center cursor-default",
                             children: "Website still under construction🚧"
                         }, void 0, false, {
                             fileName: "[project]/components/Homepage/welcome.tsx",
-                            lineNumber: 16,
-                            columnNumber: 1
+                            lineNumber: 17,
+                            columnNumber: 5
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "text-7xl md:text-9xl lg:text-[12rem] text-slate-100 font-extrabold tracking-tighter text-center pb-2",
+                            className: "jsx-401f09597490a33e" + " " + "text-7xl md:text-9xl lg:text-[12rem] text-slate-100 font-extrabold tracking-tighter text-center pb-2",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "hover:text-red-500 cursor-default",
+                                    className: "jsx-401f09597490a33e" + " " + "hover:text-red-500 cursor-default",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         href: "https://www.youtube.com/watch?v=wyoMCQn0ZD0&list=PLweUFcMiKqgJsqxd4ohXNR6RgFO1fEIBZ&index=15",
                                         target: "_blank",
-                                        className: "jsx-a05ed66b8efa07c9",
+                                        className: "jsx-401f09597490a33e",
                                         children: "W"
                                     }, void 0, false, {
                                         fileName: "[project]/components/Homepage/welcome.tsx",
-                                        lineNumber: 18,
-                                        columnNumber: 57
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 18,
-                                    columnNumber: 5
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "hover:text-orange-500 cursor-default",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                        href: "mygirlfriend.webp",
-                                        target: "_blank",
-                                        className: "jsx-a05ed66b8efa07c9",
-                                        children: "E"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/Homepage/welcome.tsx",
-                                        lineNumber: 19,
-                                        columnNumber: 60
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 19,
-                                    columnNumber: 5
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "hover:text-yellow-500 cursor-default",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                        href: "lily.webp",
-                                        target: "_blank",
-                                        className: "jsx-a05ed66b8efa07c9",
-                                        children: "L"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/Homepage/welcome.tsx",
                                         lineNumber: 20,
-                                        columnNumber: 60
-                                    }, this)
-                                }, void 0, false, {
-                                    fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 20,
-                                    columnNumber: 5
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "hover:text-green-500 cursor-pointer",
-                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                        href: "http://thecatapi.com/api/images/get?format=src&type=gif",
-                                        target: "_blank",
-                                        className: "jsx-a05ed66b8efa07c9",
-                                        children: "C"
-                                    }, void 0, false, {
-                                        fileName: "[project]/components/Homepage/welcome.tsx",
-                                        lineNumber: 21,
                                         columnNumber: 59
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 21,
-                                    columnNumber: 5
+                                    lineNumber: 20,
+                                    columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "hover:text-blue-500 cursor-default",
+                                    className: "jsx-401f09597490a33e" + " " + "hover:text-orange-500 cursor-default",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                        href: "https://youtu.be/Sff7Kc77QAY?si=8lCZrSD8l0lscKiX&t=26",
+                                        href: "mygirlfriend.webp",
                                         target: "_blank",
-                                        className: "jsx-a05ed66b8efa07c9",
-                                        children: "O"
+                                        className: "jsx-401f09597490a33e",
+                                        children: "E"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/Homepage/welcome.tsx",
+                                        lineNumber: 21,
+                                        columnNumber: 62
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/components/Homepage/welcome.tsx",
+                                    lineNumber: 21,
+                                    columnNumber: 7
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "jsx-401f09597490a33e" + " " + "hover:text-yellow-500 cursor-default",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        href: "lily.webp",
+                                        target: "_blank",
+                                        className: "jsx-401f09597490a33e",
+                                        children: "L"
                                     }, void 0, false, {
                                         fileName: "[project]/components/Homepage/welcome.tsx",
                                         lineNumber: 22,
-                                        columnNumber: 58
+                                        columnNumber: 62
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/Homepage/welcome.tsx",
                                     lineNumber: 22,
-                                    columnNumber: 5
+                                    columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "hover:text-indigo-500 cursor-default",
+                                    className: "jsx-401f09597490a33e" + " " + "hover:text-green-500 cursor-pointer",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                        href: "https://static.thcdn.com/images/large/original//productimg/1600/1600/12657945-5785176576245951.jpg",
+                                        href: "http://thecatapi.com/api/images/get?format=src&type=gif",
                                         target: "_blank",
-                                        className: "jsx-a05ed66b8efa07c9",
-                                        children: "M"
+                                        className: "jsx-401f09597490a33e",
+                                        children: "C"
                                     }, void 0, false, {
                                         fileName: "[project]/components/Homepage/welcome.tsx",
                                         lineNumber: 23,
-                                        columnNumber: 60
+                                        columnNumber: 61
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/Homepage/welcome.tsx",
                                     lineNumber: 23,
-                                    columnNumber: 5
+                                    columnNumber: 7
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "hover:text-violet-500 cursor-default",
+                                    className: "jsx-401f09597490a33e" + " " + "hover:text-blue-500 cursor-default",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                        href: "https://www.youtube.com/watch?v=zfyQ8muKLdc",
+                                        href: "https://youtu.be/fzi24Nssiow?si=4FfMJjKI77HPu0zC",
                                         target: "_blank",
-                                        className: "jsx-a05ed66b8efa07c9",
-                                        children: "E"
+                                        className: "jsx-401f09597490a33e",
+                                        children: "O"
                                     }, void 0, false, {
                                         fileName: "[project]/components/Homepage/welcome.tsx",
                                         lineNumber: 24,
@@ -155,111 +120,146 @@ function WelcomeText() {
                                 }, void 0, false, {
                                     fileName: "[project]/components/Homepage/welcome.tsx",
                                     lineNumber: 24,
-                                    columnNumber: 5
+                                    columnNumber: 7
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "jsx-401f09597490a33e" + " " + "hover:text-indigo-500 cursor-default",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        href: "https://www.youtube.com/watch?v=i5tYoaoohSc",
+                                        target: "_blank",
+                                        className: "jsx-401f09597490a33e",
+                                        children: "M"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/Homepage/welcome.tsx",
+                                        lineNumber: 25,
+                                        columnNumber: 62
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/components/Homepage/welcome.tsx",
+                                    lineNumber: 25,
+                                    columnNumber: 7
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "jsx-401f09597490a33e" + " " + "hover:text-violet-500 cursor-default",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        href: "https://www.youtube.com/watch?v=zfyQ8muKLdc",
+                                        target: "_blank",
+                                        className: "jsx-401f09597490a33e",
+                                        children: "E"
+                                    }, void 0, false, {
+                                        fileName: "[project]/components/Homepage/welcome.tsx",
+                                        lineNumber: 26,
+                                        columnNumber: 62
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/components/Homepage/welcome.tsx",
+                                    lineNumber: 26,
+                                    columnNumber: 7
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/Homepage/welcome.tsx",
-                            lineNumber: 17,
-                            columnNumber: 1
+                            lineNumber: 18,
+                            columnNumber: 5
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("hr", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "h-px my-0 bg-emerald-400 border-2 border-emerald-400"
+                            className: "jsx-401f09597490a33e" + " " + "h-px my-0 bg-emerald-400 border-2 border-emerald-400"
                         }, void 0, false, {
                             fileName: "[project]/components/Homepage/welcome.tsx",
-                            lineNumber: 26,
-                            columnNumber: 1
+                            lineNumber: 28,
+                            columnNumber: 5
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "sm:text-xl md:text-2xl text-slate-200 tracking-tighter text-center pt-2 cursor-default",
+                            className: "jsx-401f09597490a33e" + " " + "text-lg sm:text-xl md:text-2xl text-slate-200 tracking-tighter text-center pt-2 cursor-default",
                             children: [
                                 "My name is ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "text-emerald-400 font-bold",
+                                    className: "jsx-401f09597490a33e" + " " + "text-emerald-400 font-bold",
                                     children: "Darragh Kennedy"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 28,
-                                    columnNumber: 12
+                                    lineNumber: 31,
+                                    columnNumber: 18
                                 }, this),
                                 ", I am a ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "text-emerald-400 font-bold",
+                                    className: "jsx-401f09597490a33e" + " " + "text-emerald-400 font-bold",
                                     children: "17"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 28,
-                                    columnNumber: 88
+                                    lineNumber: 31,
+                                    columnNumber: 94
                                 }, this),
                                 " year old ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "text-emerald-400 font-bold",
-                                    children: "student "
+                                    className: "jsx-401f09597490a33e" + " " + "text-emerald-400 font-bold",
+                                    children: "student"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 28,
-                                    columnNumber: 152
+                                    lineNumber: 31,
+                                    columnNumber: 158
                                 }, this),
-                                "from ",
+                                " from ",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "text-emerald-400 font-bold opacity-100",
+                                    className: "jsx-401f09597490a33e" + " " + "text-emerald-400 font-bold",
                                     children: "Derry"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 29,
-                                    columnNumber: 6
-                                }, this),
-                                ", Ireland. "
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/components/Homepage/welcome.tsx",
-                            lineNumber: 27,
-                            columnNumber: 1
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "sm:text-xl md:text-2xl text-slate-200 tracking-tighter text-center cursor-default",
-                            children: [
-                                "I'm passionate about Technology mostly ",
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "text-emerald-400 font-bold",
-                                    children: "Software-Development"
-                                }, void 0, false, {
-                                    fileName: "[project]/components/Homepage/welcome.tsx",
                                     lineNumber: 31,
-                                    columnNumber: 45
+                                    columnNumber: 223
                                 }, this),
-                                "/",
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                    className: "jsx-a05ed66b8efa07c9" + " " + "text-emerald-400 font-bold",
-                                    children: "Cyber-Security"
-                                }, void 0, false, {
-                                    fileName: "[project]/components/Homepage/welcome.tsx",
-                                    lineNumber: 31,
-                                    columnNumber: 118
-                                }, this)
+                                ", Ireland."
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/Homepage/welcome.tsx",
                             lineNumber: 30,
-                            columnNumber: 1
+                            columnNumber: 5
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "jsx-a05ed66b8efa07c9" + " " + "sm:text-sm md:text-xl text-emerald-400 opacity-20 tracking-tighter text-center  cursor-default",
+                            className: "jsx-401f09597490a33e" + " " + "text-lg sm:text-xl md:text-2xl text-slate-200 tracking-tighter text-center cursor-default",
+                            children: [
+                                "I'm passionate about Technology, mostly ",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "jsx-401f09597490a33e" + " " + "text-emerald-400 font-bold",
+                                    children: "Software-Development"
+                                }, void 0, false, {
+                                    fileName: "[project]/components/Homepage/welcome.tsx",
+                                    lineNumber: 34,
+                                    columnNumber: 52
+                                }, this),
+                                "/",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                    className: "jsx-401f09597490a33e" + " " + "text-emerald-400 font-bold",
+                                    children: "Networking"
+                                }, void 0, false, {
+                                    fileName: "[project]/components/Homepage/welcome.tsx",
+                                    lineNumber: 34,
+                                    columnNumber: 125
+                                }, this),
+                                "."
+                            ]
+                        }, void 0, true, {
+                            fileName: "[project]/components/Homepage/welcome.tsx",
+                            lineNumber: 33,
+                            columnNumber: 5
+                        }, this),
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                            className: "jsx-401f09597490a33e" + " " + "text-sm sm:text-sm md:text-xl text-emerald-400 opacity-20 tracking-tighter text-center cursor-default",
                             children: "*Click each letter of the WELCOME text*"
                         }, void 0, false, {
                             fileName: "[project]/components/Homepage/welcome.tsx",
-                            lineNumber: 33,
-                            columnNumber: 1
+                            lineNumber: 36,
+                            columnNumber: 5
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/Homepage/welcome.tsx",
                     lineNumber: 15,
-                    columnNumber: 1
+                    columnNumber: 3
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/Homepage/welcome.tsx",
-                lineNumber: 13,
+                lineNumber: 14,
                 columnNumber: 1
             }, this)
         ]

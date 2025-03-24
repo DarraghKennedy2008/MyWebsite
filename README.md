@@ -1,5 +1,8 @@
-## How I created it
-I used the Next.JS stack which was very powerful but easy to use.
+## What is this website for:
+This is my personal website, I use it blog and I will eventually add my projects on it.
 
-## Link to deployed site on Vercel
-(https://darrkenn.vercel.app)
+## How it was created and deployed:
+This site was created using the NextJS stack and deployed on Vercel for free.
+
+## Link to site:
+https://darrkenn.com

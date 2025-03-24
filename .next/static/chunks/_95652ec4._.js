@@ -16,7 +16,7 @@ function Blog() {
         className: "flex justify-center items-center flex-col",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                className: "text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-slate-100 font-bold tracking-tighter pt-24 pb-8",
+                className: "text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-slate-100 font-bold tracking-tighter pt-24",
                 children: "Blog"
             }, void 0, false, {
                 fileName: "[project]/app/blog/page.tsx",
@@ -145,7 +145,7 @@ function Blog() {
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                             href: "https://jellyfin.org/",
                                             target: "_blank",
-                                            children: " Jellyfin"
+                                            children: "Jellyfin"
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
                                             lineNumber: 36,
@@ -166,12 +166,12 @@ function Blog() {
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
                                             lineNumber: 36,
-                                            columnNumber: 208
+                                            columnNumber: 207
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/blog/page.tsx",
                                         lineNumber: 36,
-                                        columnNumber: 146
+                                        columnNumber: 145
                                     }, this),
                                     ",",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -183,12 +183,12 @@ function Blog() {
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
                                             lineNumber: 36,
-                                            columnNumber: 346
+                                            columnNumber: 345
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/blog/page.tsx",
                                         lineNumber: 36,
-                                        columnNumber: 284
+                                        columnNumber: 283
                                     }, this),
                                     " and ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -200,12 +200,12 @@ function Blog() {
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
                                             lineNumber: 36,
-                                            columnNumber: 483
+                                            columnNumber: 482
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/blog/page.tsx",
                                         lineNumber: 36,
-                                        columnNumber: 421
+                                        columnNumber: 420
                                     }, this),
                                     ". I gotta snooze... Diary Signing Off🤓☝️!"
                                 ]
