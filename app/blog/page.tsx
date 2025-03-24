@@ -1,4 +1,22 @@
 "use client"
+import type { Metadata } from "next";
+{/*Metadata for the page duhhh*/}
+export const metadata: Metadata = {
+  title: "Blog | darrkenn",
+  description: "This is my blog featured on my website.",
+  openGraph: {
+    title: "Blog | darrkenn",
+    description: "This is my blog featured on my website.",
+    images: [
+      {
+        url: "/daisypic.webp",
+        width: 866,
+        height: 865
+      }
+    ]
+  }
+}
+
 export default function Blog() {
   return (
     <main className="flex justify-center items-center flex-col">

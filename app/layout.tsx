@@ -13,10 +13,14 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "darrkenn | Portfolio",
+/*export const metadata: Metadata = {
+  title: "Welcome",
   description: "This is my website",
-};
+  openGraph: {
+    title: "darrkenn",
+    description:""
+  }
+};*/
 
 export default function RootLayout({
   children,
