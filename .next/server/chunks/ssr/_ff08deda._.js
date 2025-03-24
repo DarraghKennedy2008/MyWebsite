@@ -17,51 +17,317 @@ var { g: global, d: __dirname } = __turbopack_context__;
 {
 __turbopack_context__.n(__turbopack_context__.i("[project]/app/layout.tsx [app-rsc] (ecmascript)"));
 }}),
-"[project]/app/blog/page.tsx (client reference/proxy) <module evaluation>": ((__turbopack_context__) => {
-"use strict";
-
-var { g: global, d: __dirname } = __turbopack_context__;
-{
-__turbopack_context__.s({
-    "default": (()=>__TURBOPACK__default__export__),
-    "metadata": (()=>metadata)
-});
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-server-dom-turbopack-server-edge.js [app-rsc] (ecmascript)");
-;
-const __TURBOPACK__default__export__ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerClientReference"])(function() {
-    throw new Error("Attempted to call the default export of [project]/app/blog/page.tsx <module evaluation> from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.");
-}, "[project]/app/blog/page.tsx <module evaluation>", "default");
-const metadata = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerClientReference"])(function() {
-    throw new Error("Attempted to call metadata() from the server but metadata is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.");
-}, "[project]/app/blog/page.tsx <module evaluation>", "metadata");
-}}),
-"[project]/app/blog/page.tsx (client reference/proxy)": ((__turbopack_context__) => {
-"use strict";
-
-var { g: global, d: __dirname } = __turbopack_context__;
-{
-__turbopack_context__.s({
-    "default": (()=>__TURBOPACK__default__export__),
-    "metadata": (()=>metadata)
-});
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-server-dom-turbopack-server-edge.js [app-rsc] (ecmascript)");
-;
-const __TURBOPACK__default__export__ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerClientReference"])(function() {
-    throw new Error("Attempted to call the default export of [project]/app/blog/page.tsx from the server, but it's on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.");
-}, "[project]/app/blog/page.tsx", "default");
-const metadata = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$server$2d$dom$2d$turbopack$2d$server$2d$edge$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["registerClientReference"])(function() {
-    throw new Error("Attempted to call metadata() from the server but metadata is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.");
-}, "[project]/app/blog/page.tsx", "metadata");
-}}),
 "[project]/app/blog/page.tsx [app-rsc] (ecmascript)": ((__turbopack_context__) => {
 "use strict";
 
 var { g: global, d: __dirname } = __turbopack_context__;
 {
-var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$blog$2f$page$2e$tsx__$28$client__reference$2f$proxy$29$__$3c$module__evaluation$3e$__ = __turbopack_context__.i("[project]/app/blog/page.tsx (client reference/proxy) <module evaluation>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$app$2f$blog$2f$page$2e$tsx__$28$client__reference$2f$proxy$29$__ = __turbopack_context__.i("[project]/app/blog/page.tsx (client reference/proxy)");
+__turbopack_context__.s({
+    "default": (()=>Blog),
+    "metadata": (()=>metadata)
+});
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 ;
-__turbopack_context__.n(__TURBOPACK__imported__module__$5b$project$5d2f$app$2f$blog$2f$page$2e$tsx__$28$client__reference$2f$proxy$29$__);
+{}const metadata = {
+    title: "Blog | darrkenn",
+    description: "This is my blog featured on my website.",
+    openGraph: {
+        title: "Blog | darrkenn",
+        description: "This is my blog featured on my website.",
+        images: [
+            {
+                url: "/daisypic.webp",
+                width: 866,
+                height: 865
+            }
+        ]
+    }
+};
+function Blog() {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
+        className: "flex justify-center items-center flex-col",
+        children: [
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                className: "text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-slate-100 font-bold tracking-tighter pt-24",
+                children: "Blog"
+            }, void 0, false, {
+                fileName: "[project]/app/blog/page.tsx",
+                lineNumber: 22,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "p-4 w-full max-w-6xl flex justify-center",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "w-full lg:w-148 lg:h-auto border-3 border-zinc-200 rounded-2xl flex flex-col lg:flex-row p-4 bg-stone-900",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "flex flex-col w-full pr-0 lg:pr-4 overflow-auto",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                className: "text-xl md:text-xl lg:text-2xl text-emerald-400 font-bold tracking-tighter mb-2 flex justify-between items-center",
+                                children: [
+                                    "Where I've been",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-right text-sm md:text-md lg:text-xl tracking-normal",
+                                        children: [
+                                            "Date posted:",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "text-white text-[12px] md:text-xl lg:text-xl",
+                                                children: " 24/03/2025"
+                                            }, void 0, false, {
+                                                fileName: "[project]/app/blog/page.tsx",
+                                                lineNumber: 31,
+                                                columnNumber: 29
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/app/blog/page.tsx",
+                                        lineNumber: 30,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/app/blog/page.tsx",
+                                lineNumber: 28,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "text-lg sm:text-md text-slate-100 tracking-tighter",
+                                children: [
+                                    "Yo, im back. I've been busy doing stuff and completely forgot about coding this website and updating the blog. While I was gone I thought about the fact that I'm learning NextJS and React but I haven't actually learned the basics of programming. I decided that I will learn C++ before I continue on with learning NextJS. I'm following along with Codecademy's C++ course. I'm using Obsidian to take down my notes and holy shit, its so useful. I instantly purchased Obsidian sync so I could take notes on my laptop and desktop easily. Also ",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-sky-500 hover:text-green-500",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "https://store.steampowered.com/app/1907590/Psycho_Patrol_R/",
+                                            target: "_blank",
+                                            children: "Psycho Patrol R"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/blog/page.tsx",
+                                            lineNumber: 35,
+                                            columnNumber: 635
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/blog/page.tsx",
+                                        lineNumber: 35,
+                                        columnNumber: 583
+                                    }, this),
+                                    " JUST RELEASED, instantly bought it, gonna get so distracted and forget about learning tbh. Yeah thats enough yapping."
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/app/blog/page.tsx",
+                                lineNumber: 34,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/app/blog/page.tsx",
+                        lineNumber: 27,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "[project]/app/blog/page.tsx",
+                    lineNumber: 26,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/app/blog/page.tsx",
+                lineNumber: 25,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "p-4 w-full max-w-6xl flex justify-center",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "w-full lg:w-148 lg:h-auto border-3 border-zinc-200 rounded-2xl flex flex-col lg:flex-row p-4 bg-stone-900",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "flex flex-col w-full pr-0 lg:pr-4 overflow-auto",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                className: "text-xl md:text-xl lg:text-2xl text-emerald-400 font-bold tracking-tighter mb-2 flex justify-between items-center",
+                                children: [
+                                    "Domain",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-right text-sm md:text-md lg:text-xl tracking-normal",
+                                        children: [
+                                            "Date posted:",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "text-white text-[12px] md:text-xl lg:text-xl",
+                                                children: " 09/03/2025"
+                                            }, void 0, false, {
+                                                fileName: "[project]/app/blog/page.tsx",
+                                                lineNumber: 48,
+                                                columnNumber: 29
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/app/blog/page.tsx",
+                                        lineNumber: 47,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/app/blog/page.tsx",
+                                lineNumber: 45,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "text-lg sm:text-md text-slate-100 tracking-tighter",
+                                children: [
+                                    'I bought offical domain "darrkenn.com", got it a good price too. Came up with an idea for another website, its called Teclassia and its a Terraria class guide. I created it because I hate having to go on youtube and decide which of the million class guides I want to follow. Setup up the project and was gonna use a JSON file for the classes/items/armour, but I realised that would just be unnecessary as its not that much data and could just be statically displayed. Got a good deal on a Intel Xeon and some more ram for my home-server probably gonna set it up with CasaOS or Ubuntu server. I\'ll be using:',
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-sky-500 underline hover:text-green-500",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "https://jellyfin.org/",
+                                            target: "_blank",
+                                            children: "Jellyfin"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/blog/page.tsx",
+                                            lineNumber: 53,
+                                            columnNumber: 77
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/blog/page.tsx",
+                                        lineNumber: 53,
+                                        columnNumber: 15
+                                    }, this),
+                                    ",",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-sky-500 underline hover:text-green-500",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "https://www.photoprism.app/",
+                                            target: "_blank",
+                                            children: "PhotoPrism"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/blog/page.tsx",
+                                            lineNumber: 53,
+                                            columnNumber: 207
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/blog/page.tsx",
+                                        lineNumber: 53,
+                                        columnNumber: 145
+                                    }, this),
+                                    ",",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-sky-500 underline hover:text-green-500",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "https://craftycontrol.com/",
+                                            target: "_blank",
+                                            children: "Crafty"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/blog/page.tsx",
+                                            lineNumber: 53,
+                                            columnNumber: 345
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/blog/page.tsx",
+                                        lineNumber: 53,
+                                        columnNumber: 283
+                                    }, this),
+                                    " and ",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-sky-500 underline hover:text-green-500",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                            href: "https://www.portainer.io/",
+                                            target: "_blank",
+                                            children: "Portainer"
+                                        }, void 0, false, {
+                                            fileName: "[project]/app/blog/page.tsx",
+                                            lineNumber: 53,
+                                            columnNumber: 482
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/app/blog/page.tsx",
+                                        lineNumber: 53,
+                                        columnNumber: 420
+                                    }, this),
+                                    ". I gotta snooze... Diary Signing Off🤓☝️!"
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/app/blog/page.tsx",
+                                lineNumber: 51,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/app/blog/page.tsx",
+                        lineNumber: 44,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "[project]/app/blog/page.tsx",
+                    lineNumber: 43,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/app/blog/page.tsx",
+                lineNumber: 42,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "p-4 w-full max-w-6xl flex justify-center",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "w-full lg:w-148 lg:h-auto border-3 border-zinc-200 rounded-2xl flex flex-col lg:flex-row p-4 bg-stone-900",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "flex flex-col w-full pr-0 lg:pr-4 overflow-auto",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                className: "text-xl md:text-xl lg:text-2xl text-emerald-400 font-bold tracking-tighter mb-2 flex justify-between items-center",
+                                children: [
+                                    "Test",
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "text-right text-sm md:text-md lg:text-xl tracking-normal",
+                                        children: [
+                                            "Date posted:",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                className: "text-white text-[12px] md:text-xl lg:text-xl",
+                                                children: " 07/03/2025"
+                                            }, void 0, false, {
+                                                fileName: "[project]/app/blog/page.tsx",
+                                                lineNumber: 66,
+                                                columnNumber: 29
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/app/blog/page.tsx",
+                                        lineNumber: 65,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/app/blog/page.tsx",
+                                lineNumber: 63,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: "text-lg sm:text-md text-slate-100 tracking-tighter",
+                                children: "This is a test. NGL though the website is looking kinda fire. What do I write here, IDK im gonna do the fade in on scroll animation next. Then probably work on the Ran-Util project. Thinking of what to add to it, probably like a calculator and a converter. Its 3am rn i gotta go eat something. Diary Signing Off🤓☝️!"
+                            }, void 0, false, {
+                                fileName: "[project]/app/blog/page.tsx",
+                                lineNumber: 69,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/app/blog/page.tsx",
+                        lineNumber: 62,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "[project]/app/blog/page.tsx",
+                    lineNumber: 61,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/app/blog/page.tsx",
+                lineNumber: 60,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/app/blog/page.tsx",
+        lineNumber: 21,
+        columnNumber: 5
+    }, this);
+}
 }}),
 "[project]/app/blog/page.tsx [app-rsc] (ecmascript, Next.js server component)": ((__turbopack_context__) => {
 
@@ -358,4 +624,4 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 
 };
 
-//# sourceMappingURL=_2c719591._.js.map
+//# sourceMappingURL=_ff08deda._.js.map

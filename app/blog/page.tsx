@@ -1,4 +1,3 @@
-"use client"
 import type { Metadata } from "next";
 {/*Metadata for the page duhhh*/}
 export const metadata: Metadata = {

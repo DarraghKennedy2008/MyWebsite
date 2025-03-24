@@ -6,11 +6,27 @@ module.exports = {
 var { g: global, d: __dirname } = __turbopack_context__;
 {
 __turbopack_context__.s({
-    "default": (()=>Blog)
+    "default": (()=>Blog),
+    "metadata": (()=>metadata)
 });
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js [app-ssr] (ecmascript)");
 "use client";
 ;
+{}const metadata = {
+    title: "Blog | darrkenn",
+    description: "This is my blog featured on my website.",
+    openGraph: {
+        title: "Blog | darrkenn",
+        description: "This is my blog featured on my website.",
+        images: [
+            {
+                url: "/daisypic.webp",
+                width: 866,
+                height: 865
+            }
+        ]
+    }
+};
 function Blog() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
         className: "flex justify-center items-center flex-col",
@@ -20,7 +36,7 @@ function Blog() {
                 children: "Blog"
             }, void 0, false, {
                 fileName: "[project]/app/blog/page.tsx",
-                lineNumber: 5,
+                lineNumber: 23,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -43,19 +59,19 @@ function Blog() {
                                                 children: " 24/03/2025"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/blog/page.tsx",
-                                                lineNumber: 14,
+                                                lineNumber: 32,
                                                 columnNumber: 29
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 13,
+                                        lineNumber: 31,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/blog/page.tsx",
-                                lineNumber: 11,
+                                lineNumber: 29,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -70,35 +86,35 @@ function Blog() {
                                             children: "Psycho Patrol R"
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
-                                            lineNumber: 18,
+                                            lineNumber: 36,
                                             columnNumber: 635
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 18,
+                                        lineNumber: 36,
                                         columnNumber: 583
                                     }, this),
                                     " JUST RELEASED, instantly bought it, gonna get so distracted and forget about learning tbh. Yeah thats enough yapping."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/blog/page.tsx",
-                                lineNumber: 17,
+                                lineNumber: 35,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/blog/page.tsx",
-                        lineNumber: 10,
+                        lineNumber: 28,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/app/blog/page.tsx",
-                    lineNumber: 9,
+                    lineNumber: 27,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/blog/page.tsx",
-                lineNumber: 8,
+                lineNumber: 26,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -121,19 +137,19 @@ function Blog() {
                                                 children: " 09/03/2025"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/blog/page.tsx",
-                                                lineNumber: 31,
+                                                lineNumber: 49,
                                                 columnNumber: 29
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 30,
+                                        lineNumber: 48,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/blog/page.tsx",
-                                lineNumber: 28,
+                                lineNumber: 46,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -148,12 +164,12 @@ function Blog() {
                                             children: "Jellyfin"
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
-                                            lineNumber: 36,
+                                            lineNumber: 54,
                                             columnNumber: 77
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 36,
+                                        lineNumber: 54,
                                         columnNumber: 15
                                     }, this),
                                     ",",
@@ -165,12 +181,12 @@ function Blog() {
                                             children: "PhotoPrism"
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
-                                            lineNumber: 36,
+                                            lineNumber: 54,
                                             columnNumber: 207
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 36,
+                                        lineNumber: 54,
                                         columnNumber: 145
                                     }, this),
                                     ",",
@@ -182,12 +198,12 @@ function Blog() {
                                             children: "Crafty"
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
-                                            lineNumber: 36,
+                                            lineNumber: 54,
                                             columnNumber: 345
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 36,
+                                        lineNumber: 54,
                                         columnNumber: 283
                                     }, this),
                                     " and ",
@@ -199,35 +215,35 @@ function Blog() {
                                             children: "Portainer"
                                         }, void 0, false, {
                                             fileName: "[project]/app/blog/page.tsx",
-                                            lineNumber: 36,
+                                            lineNumber: 54,
                                             columnNumber: 482
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 36,
+                                        lineNumber: 54,
                                         columnNumber: 420
                                     }, this),
                                     ". I gotta snooze... Diary Signing Off🤓☝️!"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/blog/page.tsx",
-                                lineNumber: 34,
+                                lineNumber: 52,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/blog/page.tsx",
-                        lineNumber: 27,
+                        lineNumber: 45,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/app/blog/page.tsx",
-                    lineNumber: 26,
+                    lineNumber: 44,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/blog/page.tsx",
-                lineNumber: 25,
+                lineNumber: 43,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -250,19 +266,19 @@ function Blog() {
                                                 children: " 07/03/2025"
                                             }, void 0, false, {
                                                 fileName: "[project]/app/blog/page.tsx",
-                                                lineNumber: 49,
+                                                lineNumber: 67,
                                                 columnNumber: 29
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/app/blog/page.tsx",
-                                        lineNumber: 48,
+                                        lineNumber: 66,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/app/blog/page.tsx",
-                                lineNumber: 46,
+                                lineNumber: 64,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -270,29 +286,29 @@ function Blog() {
                                 children: "This is a test. NGL though the website is looking kinda fire. What do I write here, IDK im gonna do the fade in on scroll animation next. Then probably work on the Ran-Util project. Thinking of what to add to it, probably like a calculator and a converter. Its 3am rn i gotta go eat something. Diary Signing Off🤓☝️!"
                             }, void 0, false, {
                                 fileName: "[project]/app/blog/page.tsx",
-                                lineNumber: 52,
+                                lineNumber: 70,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/app/blog/page.tsx",
-                        lineNumber: 45,
+                        lineNumber: 63,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/app/blog/page.tsx",
-                    lineNumber: 44,
+                    lineNumber: 62,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/app/blog/page.tsx",
-                lineNumber: 43,
+                lineNumber: 61,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/blog/page.tsx",
-        lineNumber: 4,
+        lineNumber: 22,
         columnNumber: 5
     }, this);
 }
